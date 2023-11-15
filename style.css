@@ -1,0 +1,38 @@
+
+h1 {
+    font-family: sans-serif;
+    background-color:orange
+}
+
+h2 {
+font-family: sans-serif;
+background-color: orange;
+}
+
+h3 {
+font-family: sans-serif;
+color: blue;
+font-colo
+}
+
+img {
+  float: right;
+  width: 250px;
+  border-color: saddlebrown;
+  height:150px;
+}
+
+p {
+    font-family: fantasy;
+    font-size: 14px;
+  color: orange;
+  width:3000px;
+
+}
+
+body {
+    background-color: yellow;
+    color:white;
+
+}
+      
